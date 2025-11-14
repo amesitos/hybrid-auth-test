@@ -1,6 +1,6 @@
 # 🚀 Sistema de Autenticación Híbrido
 
-Este proyecto es la solución al examen práctico, implementando un sistema de autenticación de usuarios en Python. El sistema utiliza una arquitectura de base de datos híbrida 100% en la nube, conectándose a **MySQL en Clever Cloud** y **MongoDB en Atlas**.
+Se implementa un sistema de autenticación de usuarios en Python. El sistema utiliza una arquitectura de base de datos híbrida 100% en la nube, conectándose a **MySQL en Clever Cloud** y **MongoDB en Atlas**.
 
 El sistema soporta el registro de usuarios, login seguro, gestión de perfiles (editar/eliminar), recuperación simulada de contraseña y diferenciación de roles (admin/usuario), con un enfoque en la seguridad y el manejo robusto de conexiones en la nube.
 
