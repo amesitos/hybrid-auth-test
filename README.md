@@ -19,7 +19,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
 1.  **Clonar el Repositorio (Opcional)**
     ```bash
-    git clone [https://tu-repositorio.git](https://tu-repositorio.git)
+    git clone https://github.com/amesitos/hybrid-auth-test
     cd bdd_examen
     ```
 
